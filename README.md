@@ -12,8 +12,8 @@ Refer to https://wiki.idempiere.org/en/Plugin:_AulerAccountsInfo
 
 ## How to use
 
-Desktop Home -> Views ->???
+Desktop Home -> Views -> as1_BalanceOfAccounts_IW
 
 ## Fixing
 
-Add **Apply SQL** in ODT ObjectData **EntityType** in order to create Database View during plugin installation
+Add **Apply SQL** in ODT ObjectData **EntityType** in order to create Database View for InfoWindow during plugin installation
